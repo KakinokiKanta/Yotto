@@ -1,0 +1,25 @@
+@charset "utf8";
+body {
+     background-color : #9cc; 
+     color: black; 
+     margin-left:3em; 
+     margin-right: 3em
+     }
+h1 {
+    font-size : 1.5em;
+   background-color: #903;
+   color : white;
+   padding : 0.2em 
+   }
+h2 {
+   font-size : 1.2em;
+   border : 1px solid #009;
+   padding: 0.2em;
+   }
+p {font-height: 1.6}
+table {
+  border-collapse: collapse;
+}
+table th, table td {
+  border: solid 1px black;
+}
