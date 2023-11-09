@@ -1,5 +1,5 @@
 # Yotto
-大学2年生の時に、大学の講義で作成したWebゲーム「ヨット」を置くためのリポジトリです。
+大学2年生の時に、PHPで作成したWebゲーム「ヨット」を置くためのリポジトリです。大学のDBを利用しているため、ゲームは非公開となっています。
 ## 「ヨット」の画面遷移図
 ![interface](https://github.com/KakinokiKanta/Yotto/assets/105735727/0c47d83d-8cb5-4d8b-b9c4-b95234ae9809)
 ## score.php の 処理
